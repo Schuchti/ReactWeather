@@ -14,7 +14,7 @@ var React = require('react');
 // new:
 var About = (props) => {
   return (
-    <h3>About component</h3>
+    <h3>About component!</h3>
   );
 };
 
